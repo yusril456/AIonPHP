@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  12 MAR 2019 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.15)  15 MAR 2019 16:24
 entering extended mode
 **./main.tex
 (main.tex
@@ -63,78 +63,270 @@ Writing index file main.idx
 \chapheight=\dimen112
 \authorskip=\dimen113
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
-icx.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+ty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
-l.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
-ics.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+ty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
-sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
-raphics.cfg"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+cs.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
-dftex.def"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listi
-ngs.sty"
-\lst@mode=\count107
-\lst@gtempboxa=\box27
-\lst@token=\toks15
-\lst@length=\count108
-\lst@currlwidth=\dimen116
-\lst@column=\count109
-\lst@pos=\count110
-\lst@lostspace=\dimen117
-\lst@width=\dimen118
-\lst@newlines=\count111
-\lst@lineno=\count112
-\lst@maxwidth=\dimen119
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmi
-sc.sty"
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count113
-\lst@skipnumbers=\count114
-\lst@framebox=\box28
-)
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listi
-ngs.cfg"
-File: listings.cfg 2019/02/27 1.8b listings configuration
-))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
+! LaTeX Error: File `listings.sty' not found.
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color
-.sty"
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
-olor.cfg"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstla
-ng1.sty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-) (w-bookps.sty
+! Undefined control sequence.
+l.37 \lstdefinestyle
+                    {mystyle}{
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \lstdefinestyle{m
+                      ystyle}{
+? 
+
+Overfull \hbox (45.38896pt too wide) in paragraph at lines 37--56
+[]\tocfonts mystyle
+ []
+
+
+Overfull \hbox (23.33337pt too wide) in paragraph at lines 37--56
+\tocfonts back-
+ []
+
+
+Overfull \hbox (33.91675pt too wide) in paragraph at lines 37--56
+\tocfonts ground-
+ []
+
+
+Overfull \hbox (31.69452pt too wide) in paragraph at lines 37--56
+\tocfonts color=[],
+ []
+
+
+Overfull \hbox (21.11115pt too wide) in paragraph at lines 37--56
+\tocfonts com-
+ []
+
+
+Overfull \hbox (52.55566pt too wide) in paragraph at lines 37--56
+\tocfonts mentstyle=[],
+ []
+
+
+Overfull \hbox (18.05559pt too wide) in paragraph at lines 37--56
+\tocfonts key-
+ []
+
+
+Overfull \hbox (24.75003pt too wide) in paragraph at lines 37--56
+\tocfonts word-
+ []
+
+
+Overfull \hbox (30.61118pt too wide) in paragraph at lines 37--56
+\tocfonts style=[],
+ []
+
+
+Overfull \hbox (22.50005pt too wide) in paragraph at lines 37--56
+\tocfonts num-
+ []
+
+
+Overfull \hbox (17.5278pt too wide) in paragraph at lines 37--56
+\tocfonts ber-
+ []
+
+
+Overfull \hbox (29.8473pt too wide) in paragraph at lines 37--56
+\tocfonts style=[]\OT1/cmr/m/n/5 ,
+ []
+
+
+Overfull \hbox (38.40326pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/5 stringstyle=[],
+ []
+
+
+Overfull \hbox (9.51404pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/5 ba-
+ []
+
+
+Overfull \hbox (10.17374pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/5 sic-
+ []
+
+
+Overfull \hbox (21.42387pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/5 style=\OT1/cmr/m/n/8 ,
+ []
+
+
+Overfull \hbox (53.88828pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 breakatwhites-
+ []
+
+
+Overfull \hbox (41.8395pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 pace=false,
+ []
+
+
+Overfull \hbox (23.38228pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 break-
+ []
+
+
+Overfull \hbox (40.66586pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 lines=true,
+ []
+
+
+Overfull \hbox (15.58356pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 cap-
+ []
+
+
+Overfull \hbox (17.47247pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 tion-
+ []
+
+
+Overfull \hbox (26.25594pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 pos=b,
+ []
+
+
+Overfull \hbox (63.85231pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 keepspaces=true,
+ []
+
+
+Overfull \hbox (19.12527pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 num-
+ []
+
+
+Overfull \hbox (36.4158pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 bers=left,
+ []
+
+
+Overfull \hbox (19.12527pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 num-
+ []
+
+
+Overfull \hbox (45.15204pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 bersep=5pt,
+ []
+
+
+Overfull \hbox (24.41425pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 shows-
+ []
+
+
+Overfull \hbox (45.19232pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 paces=false,
+ []
+
+
+Overfull \hbox (21.06142pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 show-
+ []
+
+
+Overfull \hbox (69.84962pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 stringspaces=false,
+ []
+
+
+Overfull \hbox (59.1703pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 showtabs=false,
+ []
+
+
+Overfull \hbox (15.11133pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 tab-
+ []
+
+
+Overfull \hbox (26.49205pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 size=2,
+ []
+
+
+Overfull \hbox (14.16687pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 lan-
+ []
+
+
+Overfull \hbox (35.93663pt too wide) in paragraph at lines 37--56
+\OT1/cmr/m/n/8 guage=sh
+ []
+
+! Undefined control sequence.
+l.57 \lstset
+            {style=mystyle}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \lstset{s
+              tyle=mystyle}
+? 
+
+Overfull \hbox (73.22235pt too wide) in paragraph at lines 57--58
+[]\tocfonts style=mystyle 
+ []
+
+(w-bookps.sty
 
 
  Using PostScript Fonts
@@ -144,7 +336,7 @@ File: lstlang1.sty 2019/02/27 1.8b listings language file
 
  
 )
-\sectsavebox=\box29
+\sectsavebox=\box27
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 123.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -167,69 +359,53 @@ LaTeX Font Info:    ... okay on input line 128.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 128.
 
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.
-fd"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
-pp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count115
-\scratchdimen=\dimen120
-\scratchbox=\box30
-\nofMPsegments=\count116
-\nofMParguments=\count117
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count118
-\MPscratchDim=\dimen121
-\MPnumerator=\count119
-\makeMPintoPDFobject=\count120
-\everyMPtoPDFconversion=\toks17
-)
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
-pdf-base.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+ase.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\inf
-warerr.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+r.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfex
-t.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvd
-efinekeys.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+keys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltx
-cmds.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopt
-ions.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvs
-etkeys.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+s.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ete
-xcmds.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifl
-uatex.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdf
-texcmds.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+ds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifp
-df.sty"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+y"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -244,7 +420,6 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\c@lstlisting=\count121
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 147.
 
@@ -252,8 +427,11 @@ Overfull \hbox (33.43599pt too wide) in paragraph at lines 147--147
 \subtitlefont ADMINISTRASI JARINGAN KOM-PUTER 
  []
 
-[1{C:/Users/Lenovi460/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2]
+
+Overfull \vbox (56.00002pt too high) has occurred while \output is active []
+
+
+[1{C:/Users/ASUS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
 
@@ -261,7 +439,7 @@ Overfull \hbox (107.32318pt too wide) in paragraph at lines 149--149
 []\titlefont ADMINISTRASI JARINGAN KOM-PUTER 
  []
 
-<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+<kreatiflogo.png, id=12, 437.635pt x 207.77625pt>
 File: kreatiflogo.png Graphic file (type png)
 <use kreatiflogo.png>
 Package pdftex.def Info: kreatiflogo.png  used on input line 149.
@@ -291,7 +469,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
- (info/contributors.tex) [5] [6
+ (info/contributors.tex) [5
+! Font \csname\endcsname=psyr at 9.5pt not loadable: Metric (TFM) file not foun
+d.
+<to be read again> 
+                   \endgroup \set@typeset@protect 
+l.162 \end{contributors}
+                        
+? 
+] [6
 
 ] (main.toc) [7] [8
 
@@ -312,45 +498,45 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[10] (main.lof)
+[10]
+No file main.lof.
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [11
+[11
 
 ] [12
 
-] (main.lot)
+]
+No file main.lot.
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [13] [14
+[13]
+! Undefined control sequence.
+l.168 \lstlistoflistings
+                        
+? 
+[14
 
-] (main.lol)
-\tf@lol=\write7
-\openout7 = `main.lol'.
+] (info/foreword.tex) [15] [16
 
- [15] [16
-
-]
-(info/foreword.tex) [17] [18
-
-] (info/preface.tex) [19] [20
+] (info/preface.tex) [17] [18
 
 ]
-(info/acknowledgments.tex [21]) [22
+(info/acknowledgments.tex [19]) [20
 
 ] (info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 186.
 
 
-("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.
-fd"
+("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
- [23] [24
+
+[21] [22
 
 ] (info/glossary.tex
 Overfull \hbox (1.9575pt too wide) in paragraph at lines 7--8
@@ -367,7 +553,7 @@ road-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25])
+ [23])
 Overfull \vbox (4.85098pt too high) has occurred while \output is active []
 
 
@@ -375,19 +561,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[26] (info/symbols.tex) [27
+[24] (info/symbols.tex) [25
 
-] [28
+] [26
 
 ] (info/introduction.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 
 
-LaTeX Warning: Citation `awangga2018sampeu' on page xxix undefined on input lin
-e 13.
+LaTeX Warning: Citation `awangga2018sampeu' on page xxvii undefined on input li
+ne 13.
 
-) [29] [30
+) [27] [28
 
 ]
 Bab 1.
@@ -444,6 +630,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Overfull \hbox (1.27754pt too wide) in paragraph at lines 135--137
 []\OT1/ptm/m/n/10 Topologi Star Pada topologi in, se-tiap kom-puter(node) dalam
  jaringan ter-hubung
+ []
+
+
+Overfull \hbox (23.96748pt too wide) in paragraph at lines 151--153
+\OT1/ptm/m/n/10 yang sal-ing berkesinam-bun-gan dan pada prin-sip-nya meng-gu-n
+akan CSMA/CD(Carrier
  []
 
 
@@ -528,17 +720,71 @@ Bab 2.
 
 ]
 Bab 3.
-(chapters/3.tex) [11] [12
+(chapters/3.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-]
+ [11]
+Overfull \hbox (1.08745pt too wide) in paragraph at lines 8--11
+\OT1/ptm/m/n/10 dike-nal den-gan singkatan Hy-per-text Pre-pro-ces-sor se-buah 
+kepan-jan-gan rekur-sif, yakni
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12]
+Overfull \hbox (7.80699pt too wide) in paragraph at lines 33--36
+\OT1/ptm/m/n/10 telah di-je-laskan se-belum-nya, ba-hasa ini da-pat di-gu-nakan
+ un-tuk mengedit, menam-
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.40 ...lihat sebagai pilihan lain dari ASP.NET/C#
+                                                  /VB.NET Microsoft, ColdFus...
+
+? 
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+Overfull \hbox (0.24757pt too wide) in paragraph at lines 50--52
+\OT1/ptm/m/n/10 ba-hasa pem-ro-gra-man ini meru-pakan se-buah ba-hasa yang di-g
+u-nakan oleh perusahaan-
+ []
+
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
 Bab 4.
-(chapters/4.tex) [13] [14
+(chapters/4.tex) [15
+
+] [16
 
 ]
 Bab 5.
-(chapters/5.tex)
+(chapters/5.tex) [17] [18
+
+]
+Bab 6.
+(chapters/6.tex)
 No file main.bbl.
-[15] [16
+[19] [20
 
 ]
 No file main.ind.
@@ -548,32 +794,33 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3343 strings out of 492946
- 47745 string characters out of 3124490
- 302595 words of memory out of 3000000
- 7127 multiletter control sequences out of 15000+200000
- 62225 words of font info for 114 fonts, out of 3000000 for 9000
+ 1694 strings out of 492946
+ 24138 string characters out of 3126710
+ 95596 words of memory out of 3000000
+ 5498 multiletter control sequences out of 15000+200000
+ 62194 words of font info for 114 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,47p,914b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r
-.enc}<C:/Users/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmex10.pfb><C:/Users/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Lenovi460/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Lenovi460/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/User
-s/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Users/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb><C:/Users/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Lenovi460/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Lenovi460/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Lenovi460/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Lenov
-i460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Use
-rs/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
-b>
-Output written on main.pdf (47 pages, 169150 bytes).
+ 42i,15n,25p,914b,379s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ASUS/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/ASUS/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ASU
+S/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helv
+etic/uhvb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/helvetic/uhvr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/urw/times/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (49 pages, 207328 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
+ 221 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
