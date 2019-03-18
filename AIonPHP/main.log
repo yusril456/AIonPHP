@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  12 MAR 2019 11:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.11)  18 MAR 2019 13:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -246,43 +246,37 @@ G,.JBIG2,.JB2,.eps]
 )
 \c@lstlisting=\count121
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 147.
-
-Overfull \hbox (33.43599pt too wide) in paragraph at lines 147--147
-\subtitlefont ADMINISTRASI JARINGAN KOM-PUTER 
- []
-
-[1{C:/Users/Lenovi460/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-[2]
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 148.
+ [1{C:/Users/Lenovi460/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 149.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 150.
 
-Overfull \hbox (107.32318pt too wide) in paragraph at lines 149--149
-[]\titlefont ADMINISTRASI JARINGAN KOM-PUTER 
+Overfull \hbox (12.8832pt too wide) in paragraph at lines 150--150
+[]\titlefont MACHINE LEARN-ING DEN-GAN
  []
 
 <kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
 File: kreatiflogo.png Graphic file (type png)
 <use kreatiflogo.png>
-Package pdftex.def Info: kreatiflogo.png  used on input line 149.
+Package pdftex.def Info: kreatiflogo.png  used on input line 150.
 (pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
 [3 <./kreatiflogo.png>] (info/copyrightpage.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
 
@@ -290,7 +284,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 160.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
  (info/contributors.tex) [5] [6
 
 ] (main.toc) [7] [8
@@ -341,7 +335,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 (info/acknowledgments.tex [21]) [22
 
 ] (info/acronyms.tex)
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 186.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
 
 
 ("C:\Users\Lenovi460\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.
@@ -349,7 +343,7 @@ fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
  [23] [24
 
 ] (info/glossary.tex
@@ -392,7 +386,7 @@ e 13.
 ]
 Bab 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 202.
+(Font)              <14.4> on input line 203.
 (chapters/1.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -549,8 +543,8 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  3343 strings out of 492946
- 47745 string characters out of 3124490
- 302595 words of memory out of 3000000
+ 48399 string characters out of 3124490
+ 302602 words of memory out of 3000000
  7127 multiletter control sequences out of 15000+200000
  62225 words of font info for 114 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -571,7 +565,7 @@ ata/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Lenov
 i460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Use
 rs/Lenovi460/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pf
 b>
-Output written on main.pdf (47 pages, 169150 bytes).
+Output written on main.pdf (47 pages, 170337 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
