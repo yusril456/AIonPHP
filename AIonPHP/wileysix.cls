@@ -1843,20 +1843,21 @@ D R A F T\hfill\today, \realtime\hfill D R A F T\global\titlefalse\vss}}
 \vskip6.5pt
 
 {\locfont Penulis:}\\
-Rolly Maulana Awangga
+Muhammad Yusril helmi Setyawan
 \vskip6.5pt
 
 ISBN : 978-602-53897-0-2
 \vskip6.5pt
 
 {\locfont Editor:}\\
-M. Yusril Helmi Setyawan
+Rolly M. Awangga
 \vskip6.5pt
 
 {\locfont Penyunting:}\\
 Syafrial Fachrie Pane\\
-Khaera Tunnisa\\ 
-Diana Asri Wijayanti\\
+Rahmi Nurdini\\ 
+Mustari Muammar\\
+Diki Wahyu\\
 \vskip6.5pt
 
 {\locfont Desain sampul dan Tata letak:}\\
