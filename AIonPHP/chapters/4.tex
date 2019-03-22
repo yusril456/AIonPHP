@@ -1,9 +1,3 @@
-\section{Machine Learning}
-\subsection{Pendahuluan}
- Machine Learning merupakan cabang dari kecerdasan buatan, adalah disiplin ilmu yang mencakup perancangan dan pengembangan algoritma yang memungkinkan komputer untuk mengembangkan perilaku yang didasarkan pada data empiris, seperti dari sensor data basis data. Sistem pembelajaran dapat memanfaatkan contoh (data) untuk menangkap ciri yang diperlukan dari probabilitas yang mendasarinya (yang tidak diketahui). Data dapat dilihat sebagai contoh yang menggambarkan hubungan antara variabel yang diamati. Fokus besar penelitian pembelajaran mesin adalah bagaimana mengenali secara otomatis pola kompleks dan membuat keputusan cerdas berdasarkan data. Kesukarannya terjadi karena himpunan semua perilaku yang mungkin, dari semua masukan yang dimungkinkan, terlalu besar untuk diliput oleh himpunan contoh pengamatan (data pelatihan). Karena itu pembelajar harus merampatkan (generalisasi) perilaku dari contoh yang ada untuk menghasilkan keluaran yang berguna dalam kasus-kasus baru.
-
-\subsection{Definisi}
- Mesin disini adalah mesin dalam pengertian lebih mendekati ‘sistem’ bukan mesin mekanik. Istilah learning pertama kali muncul dalam disiplin ilmu AI (Artificial Intelligence). Pembelajaran berarti menambah pengetahuan, memahami dengan belajar, mengikuti intruksi. Pembelajaran mesin merupakan salah satu cabang dari kecerdasan buatan yang membahas mengenai pembangunan sistem yang didapat berdasarkan pada pembelajaran data, atau sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Inti dari pembelajaran mesin adalah representasi dan generelisasi. Pada tahun 1959, Arthur Samuel mendefinisikan bahwa pembelajaran mesin adalah bidang studi yang memberikan kemampuan untuk belajar tanpa diprogram secara eksplisit. Kemampuan belajar yang menjadi dominan ditentukan oleh kemampuan perangkat lunak atau algoritmanya. Implementasi kemampuan belajar dapat dicapai dengan berbagai teknik, ada yang menggunakan rule, ada yang menggunakan statistika, ada yang menggunakan pendekatan fisiologi yaitu sistem saraf manusia atau disebut dengan ANN (Artificial Neural Network) atau jaringan saraf tiruan. Pembelajaran mesin dapat berfungsi untuk beradaptasi dengan suatu keadaan yang baru, serta untuk mendeteksi dan memperkirakan suatu pola.
 
 \subsection{Sejarah}
  Sejak pertama kali komputer diciptakan manusia sudah memikirkan bagaimana caranya agar komputer dapat belajar dari pengalaman. Hal tersebut terbukti pada tahun 1952, Arthur Samuel menciptakan sebuah program, game of checkers, pada sebuah komputer IBM. Program tersebut dapat mempelajari gerakan untuk memenangkan permainan checkers dan menyimpan gerakan tersebut kedalam memorinya.
@@ -43,3 +37,125 @@ Salah satu teknik pengaplikasian machine learning adalah supervised learning. Se
 Penerapan teknologi machine learning mau tidak mau pasti telah dirasakan sekarang. Setidaknya ada dua dampak yang saling bertolak belakang dari pengembangan teknolgi machine learning. Ya, dampak positif dan dampak negatif.
 \par Salah satu dampak positif dari machine learning adalah menjadi peluang bagi para wirausahawan dan praktisi teknologi untuk terus berkarya dalam mengembangkan teknologi machine learning. Terbantunya aktivitas yang harus dilakukan manusia pun menjadi salah satu dampak positif machine learning. Sebagai contohnya adalah adanya fitur pengecekan ejaan untuk tiap bahasa pada Microsoft Word. Pengecekan secara manual akan memakan waktu berhari-hari dan melibatkan banyak tenaga untuk mendapatkan penulisan yang sempurna. Tapi dengan bantuan fitur pengecekan ejaan tersebut, secara real-time kita bisa melihat kesalahan yang terjadi pada saat pengetikan.
 \par Akan tetapi disamping itu ada dampak negatif yang harus kita waspadai. Adanya pemotongan tenaga kerja karena pekerjaan telah digantikan oleh alat teknologi machine learning adalah suatu permasalahan yang harus dihadapi. Ditambah dengan ketergantungan terhadap teknologi akan semakin terasa. Manusia akan lebih terlena oleh kemampuan gadget-nya sehingga lupa belajar untuk melakukan suatu aktivitas tanpa bantuan teknologi.
+
+\section{ML on PHP}
+\par Beberapa pendekatan yang dapat dimanfaatkan  untuk ML dalam PHP. Misalnya Algoritma, Validasi Silang, Jaringan Saraf Tiruan, Pra\-pemrosesan, Ekstraksi Fitur, dan banyak lagi contoh lainnya.
+
+\subsection{Fitur ML on PHP}
+Beberapa fitur yang dapat diterapkan dengan ML on PHP:
+\begin{enumerate}
+\item Association rule Learning
+\begin{itemize}
+\item Apriori
+\end{itemize}
+\item Classification
+\begin{itemize}
+\item SVC
+\item k-Nearest Neighbors
+\item Naive Bayes
+\end{itemize}
+\item Regression
+\begin{itemize}
+\item Least Squares
+\item SVR
+\end{itemize}
+\item Clustering
+\begin{itemize}
+\item k-Means
+\item DBSCAN
+\end{itemize}
+\item Metric
+\begin{itemize}
+\item Accuracy
+\item Confusion Matrix
+\item  Classification Report
+\end{itemize}
+\item Workflow
+\begin{itemize}
+\item  Pipeline
+\end{itemize}
+\item Neural Network
+\begin{itemize}
+\item Multilayer Perceptron Classifier
+\end{itemize}
+\item Cross Validation
+\begin{itemize}
+\item Random Split
+\item Stratified Random Split
+\end{itemize}
+\item Feature Selection
+\begin{itemize}
+\item Variance Threshold
+\item SelectKBest
+\end{itemize}
+\item Preprocessing
+\begin{itemize}
+\item Normalization
+\item Imputation missing values
+\end{itemize}
+\item Feature Extraction
+\begin{itemize}
+\item Token Count Vectorizer
+\item Tf-idf Transformer
+\end{itemize}
+\item Datasets
+\begin{itemize}
+\item Array
+\item CSV
+\item Files
+\item SVM
+\item MNIST
+\end{itemize}
+\item Models management
+\begin{itemize}
+\item Persistency
+\end{itemize}
+\item Math
+\begin{itemize}
+\item Distance
+\item Matrix
+\item Set
+\item Statistic
+\end{itemize}
+\end{enumerate}
+
+
+\subsection{Berkontribusi ke PHP\-ML}
+\par PHP-ML adalah proyek sumber terbuka. Jika Anda ingin berkontribusi, silakan baca teks berikut ini. Sebelum saya dapat menggabungkan Permintaan Tarik Anda, berikut adalah beberapa panduan yang perlu Anda ikuti. Panduan ini ada untuk tidak mengganggu Anda, tetapi untuk menjaga basis kode tetap bersih, terpadu, dan bukti di masa mendatang.
+\begin{enumerate}
+\item Cabang
+Anda hanya harus membuka permintaan tarik terhadap cabang master.
+\item Tes Unit
+Coba tambahkan tes untuk permintaan tarik Anda. Anda dapat menjalankan unit\-test dengan skript:
+	vendor/bin/phpunit
+\item Tes Kinerja
+Sebelum menjalankan skrip bootstrap pertama kali, akan mengunduh semua set data yang diperlukan dari repositori publik : php\-ai/php\-m\l-datasets.
+Tes kinerja waktu:
+vendor/bin/phpbench run\-\-report=time
+Tes kinerja memori:
+vendor/bin/phpbench run \-\-report=memory
+\item Travis
+GitHub secara otomatis menjalankan permintaan tarik Anda melalui Travis CI. Jika Anda melanggar tes, saya tidak dapat menggabungkan kode Anda, jadi pastikan kode Anda berfungsi sebelum membuka Permintaan Tarik.
+\item Menggabungkan
+Tolong beri saya waktu untuk meninjau permintaan tarik Anda. Saya akan memberikan yang terbaik untuk meninjau semuanya secepat mungkin, tetapi tidak selalu sesuai dengan harapan saya.
+\item Standar Pengkodean \& Analisis Statis
+Saat berkontribusi kode ke PHP\-ML, Anda harus mengikuti standar pengkodeannya. Untuk melakukannya, jalankan:
+	composer fix\-cs
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
