@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.15)  21 MAR 2019 16:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.15)  27 MAR 2019 17:18
 entering extended mode
 **./main.tex
 (main.tex
@@ -287,24 +287,38 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 
 ] (main.toc) [7] [8
 
-] (main.toc)
+] (main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[9])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [9]
-[10
 
-] (main.lof)
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+No file main.lof.
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
- [11] [12
+[11
 
-] (main.lot)
+] [12
+
+]
+No file main.lot.
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [13] [14
+[13] [14
 
 ] (main.lol)
 \tf@lol=\write7
@@ -312,13 +326,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 
  [15] [16
 
-]
-(info/foreword.tex) [17] [18
+] (info/foreword.tex) [17] [18
 
 ] (info/preface.tex) [19] [20
 
-]
-(info/acknowledgments.tex [21]) [22
+] (info/acknowledgments.tex [21]) [22
 
 ] (info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
@@ -508,16 +520,36 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [8]
 Bab 2.
-(chapters/2.tex) [9
+(chapters/2.tex
+Overfull \hbox (9.61664pt too wide) in paragraph at lines 2--5
+\OT1/ptm/m/n/10 Sejak per-tama kali kom-puter dicip-takan manu-sia su-dah memik
+irkan bagaimana caranya
+ []
 
-] [10
+[9
 
-]
+])
+Overfull \hbox (8.2875pt too wide) in paragraph at lines 12--208
+\OT1/ptm/m/n/10 Seti-daknya ada dua dampak yang sal-ing berto-lak be-lakang dar
+i pengem-ban-gan teknolgi
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
 Bab 3.
 (chapters/3.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+ [11
+
+]
 Overfull \hbox (1.08745pt too wide) in paragraph at lines 8--11
 \OT1/ptm/m/n/10 dike-nal den-gan singkatan Hy-per-text Pre-pro-ces-sor se-buah 
 kepan-jan-gan rekur-sif, yakni
@@ -562,10 +594,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [14]
 Bab 4.
 (chapters/4.tex
-
-LaTeX Warning: Reference `lst:code1' on page 15 undefined on input line 4.
-
-
 Overfull \hbox (24.42656pt too wide) in paragraph at lines 2--5
 \OT1/ptm/m/n/10 syaraf , pem-roses fi-tur ek-straksi dan lebih banyak lagi Se-b
 a-gai salah satu perpustakaan.Php-
@@ -608,47 +636,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [16]
-Overfull \hbox (0.77711pt too wide) in paragraph at lines 42--43
-\OT1/ptm/m/n/10 kom-puter un-tuk mengem-bangkan per-i-laku yang di-dasarkan pad
-a data em-piris, seperti
- []
-
-
-Overfull \hbox (1.90688pt too wide) in paragraph at lines 45--46
-\OT1/ptm/m/n/10 rep-re-sen-tasi dan generelisasi. Pada tahun 1959, Arthur Samue
-l mendefin-isikan bahwa
- []
-
-
-Overfull \hbox (9.61664pt too wide) in paragraph at lines 48--49
-\OT1/ptm/m/n/10 Sejak per-tama kali kom-puter dicip-takan manu-sia su-dah memik
-irkan bagaimana caranya
- []
-
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[17]
-Overfull \hbox (6.88731pt too wide) in paragraph at lines 60--61
+Overfull \hbox (6.88731pt too wide) in paragraph at lines 51--52
 \OT1/ptm/m/n/10 da-pat \mem-perki-rakan" tinggi badan sese-o-rang berdasarkan m
 a-sukan umur orang
  []
 
 
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[18]
-Overfull \hbox (1.82733pt too wide) in paragraph at lines 61--62
+Overfull \hbox (1.82733pt too wide) in paragraph at lines 52--53
 []\OT1/ptm/m/n/10 Pembelajaran Tak Ter-arah (Un-su-per-vised Learn-ing) mem-o-d
 -elkan him-punan ma-
  []
@@ -661,13 +655,29 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19]
-Overfull \hbox (8.2875pt too wide) in paragraph at lines 82--83
+[17]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18]
+Overfull \hbox (8.2875pt too wide) in paragraph at lines 73--74
 \OT1/ptm/m/n/10 Seti-daknya ada dua dampak yang sal-ing berto-lak be-lakang dar
 i pengem-ban-gan teknolgi
  []
 
-)
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19])
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -693,18 +703,15 @@ No file main.ind.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 3743 strings out of 492946
- 51552 string characters out of 3126710
+ 3742 strings out of 492946
+ 51294 string characters out of 3126710
  330602 words of memory out of 3000000
- 7506 multiletter control sequences out of 15000+200000
- 64985 words of font info for 121 fonts, out of 3000000 for 9000
+ 7507 multiletter control sequences out of 15000+200000
+ 66999 words of font info for 124 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,47p,1304b,1373s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,15n,47p,925b,1373s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
 <C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmex10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
@@ -722,7 +729,7 @@ urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
 e1/urw/times/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (55 pages, 211679 bytes).
+Output written on main.pdf (55 pages, 213118 bytes).
 PDF statistics:
  240 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
