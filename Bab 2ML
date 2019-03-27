@@ -1,0 +1,34 @@
+BAB II
+MACHINE LEARNING / TECHNOLOGY
+
+I.	Sejarah Machine Learning
+Sejak pertama kali komputer diciptakan manusia sudah memikirkan bagaimana caranya agar komputer dapat belajar dari pengalaman. Hal tersebut terbukti pada tahun 1952, Arthur Samuel menciptakan sebuah program, game of checkers, pada sebuah komputer IBM. Program tersebut dapat mempelajari gerakan untuk memenangkan permainan checkers dan menyimpan gerakan tersebut kedalam memorinya.
+Istilah machine learning pada dasarnya adalah proses komputer untuk belajar dari data (learn from data). Tanpa adanya data, komputer tidak akan bisa belajar apa-apa. Oleh karena itu jika kita ingin belajar machine learning, pasti akan terus berinteraksi dengan data. Semua pengetahuan machine learning pasti akan melibatkan data. Data bisa saja sama, akan tetapi algoritma dan pendekatan nya berbeda-beda untuk mendapatkan hasil yang optimal.
+II.	Belajar Machine Learning
+Machine Learning merupakan salah satu cabang dari disiplin ilmu Kecerdasan Buatan (Artificial Intellegence) yang membahas mengenai pembangunan sistem yang berdasarkan pada data. Banyak hal yang dipelajari, akan tetapi pada dasarnya ada 4 hal pokok yang dipelajari dalam machine learning.
+1.	Pembelajaran Terarah (Supervised Learning)
+2.	Pembelajaran Tak Terarah (Unsupervised Learning)
+3.	Pembelajaran Semi Terarah (Semi-supervised Learning)
+4.	Reinforcement Learning
+Untuk mengetahui lebih lengkap tentang Machine Learning, kawan-kawan bisa mengikuti course di Coursera dengan instruktur profesor Andrew NG dari Stanford University.
+Aplikasi Machine Learning
+Contoh penerapan machine learning dalam kehidupan adalah sebagai berikut.
+Penerapan di bidang kedoteran contohnya adalah mendeteksi penyakit seseorang dari gejala yang ada. Contoh lainnya adalah mendeteksi sebuah penyakit jantung dari dalam  rekaman elektrokardiogram yang dirancang menggunakan machine learning.
+Pada bidang computer vision contohnya adalah penerapan pengenalan wajah dan pelabelan wajah seperti pada facebook. Contoh lainnya adalah penterjemahan tulisan tangan menjadi teks.
+Pada biang information retrival contohnya adalah penterjemahan bahasa dengan menggunakan komputer, mengubah suara menjadi teks, dan filter email spam.
+Salah satu teknik pengaplikasian machine learning adalah supervised learning.Seperti yang dibahas sebelumnya, machine learning tanpa data maka tidak akan bisa bekerja. Oleh karena itu hal yang pertama kali disiapkan adalah data. Data biasanya akan dibagi menjadi 2 kelompok, yaitu data training dan data testing. Data training nantinya akan digunakan untuk melatih algoritma untuk mencari model yang cocok, sementara data testing akan dipakai untuk mengetes dan mengetahui performa model yang didapatkan pada tahapan testing.
+Dari model yang didapatkan, kita dapat melakukan prediksi yang dibedakan menjadi dua macam, tergantung tipe keluarannya. Jika hasil prediksi bersifat diskrit, maka dinamakan proses klasifikasi. Contohnya klasifikasi jenis kelamin dilihat dari tulisan tangan (output laki dan perempuan). Sementara jika kelurannya bersifat kontinyu, maka dinamakan proses regresi. Contohnya prediksi kisaran harga rumah di kota Bandung (output berupa harga rumah).
+III.	Dampak Machine Learning di Masyarakat
+Penerapan teknologi machine learning mau tidak mau pasti telah dirasakan sekarang. Setidaknya ada dua dampak yang saling bertolak belakang dari pengembangan teknolgi machine learning. Ya, dampak positif dan dampak negatif.
+Salah satu dampak positif dari machine learning adalah menjadi peluang bagi para wirausahawan dan praktisi teknologi untuk terus-menerus berkarya dalam mengembangkan sebuah bidang teknologi machine learning. Terbantunya aktivitas yang harus dilakukan manusia pun menjadi salah satu dampak positif machine learning. Sebagai contohnya adalah adanya fitur pengecekan ejaan untuk tiap bahasa pada Microsoft Word. Pengecekan secara manual akan memakan waktu berhari-hari dan melibatkan banyak tenaga untuk mendapatkan penulisan yang sempurna. Tapi dengan bantuan fitur pengecekan ejaan tersebut, secara real-time kita bisa melihat kesalahan yang terjadi pada saat pengetikan.
+Akan tetapi disamping itu ada dampak negatif yang harus kita waspadai. Adanya pemotongan tenaga kerja karena pekerjaan telah digantikan oleh alat teknologi machine learning adalah suatu permasalahan yang harus dihadapi. Ditambah dengan ketergantungan terhadap teknologi akan semakin terasa. Manusia akan lebih terlena oleh kemampuan gadget-nya sehingga lupa belajar untuk melakukan suatu aktivitas tanpa bantuan teknologi.
+
+IV.	Apa yang dimaksud dengan kecerdasan buatan atau AI?
+Sederhananya, AI adalah suatu cara untuk menjadikan komputer berpikir secerdas atau melampaui kecerdasan manusia. Tujuannya adalah agar komputer dapat memiliki kemampuan untuk berperilaku, berpikir, dan mengambil keputusan layaknya manusia.
+Ada dua macam kecerdasan buatan:
+AI dengan kemampuan terbatas, atau AI lemah
+AI jenis ini dirancang untuk menyelesaikan tugas-tugas yang sederhana. AI macam ini sudah ada di sekitar kita dan mereka bahkan mampu mengalahkan manusia dalam permainan catur, Jeopardy! (acara kuis di AS), Asisten digital seperti Siri dan Cortana mampu memberi kita kabar mengenai cuaca. Selain itu mobil kendali otomatis juga sudah berseliweran di jalanan. Namun, kemampuan mereka terbatas. Mobil kendali otomatis tak dapat diajak bermain catur. Siri tak dapat membaca dan menghapus email tidak kamu perlukan. Kemampuan AI di level ini sangatlah terbatas dan tak mampu melakukan suatu hal di luar program orisinalnya.
+
+
+
+
