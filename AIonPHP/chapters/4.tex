@@ -1,6 +1,6 @@
 
 \section{PHP-ML - Machine Learning library for PHP}
-Pendekatan segar di php. machine learning Algoritma, , validasi silang , jaringan syaraf , pemroses fitur ekstraksi dan lebih banyak lagi Sebagai salah satu perpustakaan.Php-ml membutuhkan php \& gt; = 7.1.fresh pendekatan untuk machine learning di php. Algoritma, validasi silang , jaringan syaraf , pemroses fitur ekstraksi dan lebih banyak lagi sebagai salah satu perpustakaan.
+Pendekatan segar di php. machine learning Algoritma, , validasi silang , jaringan syaraf , pemroses fitur ekstraksi dan lebih banyak lagi Sebagai salah satu perpustakaan.Php-ml membutuhkan php \& gt\; = 7.1.fresh pendekatan untuk machine learning di php. Algoritma, validasi silang , jaringan syaraf , pemroses fitur ekstraksi dan lebih banyak lagi sebagai salah satu perpustakaan.
 Php-ml membutuhkan php \& = 7.1.
 Simple example of classification dapat kita lihat pada listing \ref{lst:code1}
 \lstinputlisting[caption=contoh perintah 1,label={lst:code1}]{src/code1.tex}
@@ -11,7 +11,7 @@ Saat ini perpustakaan ini dalam proses pengembangan, tapi anda bisa memasangnya 
 
 \section{examples}
 Contoh script tersedia di repository yang terpisah php-ai/php-ml-examples.
->>>>>>> e3244b39cd0ae27fbd8ecddfafea29e955625af1
+
 
 \section{Features}
 Ada beberapa fitur diantaranya :
@@ -75,6 +75,120 @@ Salah satu teknik pengaplikasian machine learning adalah supervised learning. Se
 Penerapan teknologi machine learning mau tidak mau pasti telah dirasakan sekarang. Setidaknya ada dua dampak yang saling bertolak belakang dari pengembangan teknolgi machine learning. Ya, dampak positif dan dampak negatif.
 \par Salah satu dampak positif dari machine learning adalah menjadi peluang bagi para wirausahawan dan praktisi teknologi untuk terus berkarya dalam mengembangkan teknologi machine learning. Terbantunya aktivitas yang harus dilakukan manusia pun menjadi salah satu dampak positif machine learning. Sebagai contohnya adalah adanya fitur pengecekan ejaan untuk tiap bahasa pada Microsoft Word. Pengecekan secara manual akan memakan waktu berhari-hari dan melibatkan banyak tenaga untuk mendapatkan penulisan yang sempurna. Tapi dengan bantuan fitur pengecekan ejaan tersebut, secara real-time kita bisa melihat kesalahan yang terjadi pada saat pengetikan.
 \par Akan tetapi disamping itu ada dampak negatif yang harus kita waspadai. Adanya pemotongan tenaga kerja karena pekerjaan telah digantikan oleh alat teknologi machine learning adalah suatu permasalahan yang harus dihadapi. Ditambah dengan ketergantungan terhadap teknologi akan semakin terasa. Manusia akan lebih terlena oleh kemampuan gadget-nya sehingga lupa belajar untuk melakukan suatu aktivitas tanpa bantuan teknologi.
+
+\section{ML on PHP}
+\par Beberapa pendekatan yang dapat dimanfaatkan  untuk ML dalam PHP. Misalnya Algoritma, Validasi Silang, Jaringan Saraf Tiruan, Pra-pemrosesan, Ekstraksi Fitur, dan banyak lagi contoh lainnya.
+
+\subsection{Fitur ML on PHP}
+Beberapa fitur yang dapat diterapkan dengan ML on PHP:
+\begin{enumerate}
+\item Association rule Learning
+\begin{itemize}
+\item Apriori
+Pembelajaran aturan asosiasi berdasarkan algoritma Apriori untuk sering melakukan penambangan item.
+\begin{itemize}
+	\item Constructor Parameters
+	\item Train
+	\item Predict
+	\item Associating
+	\item Frequent item sets
+\end{itemize}
+\end{itemize}
+\item Classification
+\begin{itemize}
+\item SVC
+\item k-Nearest Neighbors
+\item Naive Bayes
+\end{itemize}
+\item Regression
+\begin{itemize}
+\item Least Squares
+\item SVR
+\end{itemize}
+\item Clustering
+\begin{itemize}
+\item k-Means
+\item DBSCAN
+\end{itemize}
+\item Metric
+\begin{itemize}
+\item Accuracy
+\item Confusion Matrix
+\item  Classification Report
+\end{itemize}
+\item Workflow
+\begin{itemize}
+\item  Pipeline
+\end{itemize}
+\item Neural Network
+\begin{itemize}
+\item Multilayer Perceptron Classifier
+\end{itemize}
+\item Cross Validation
+\begin{itemize}
+\item Random Split
+\item Stratified Random Split
+\end{itemize}
+\item Feature Selection
+\begin{itemize}
+\item Variance Threshold
+\item SelectKBest
+\end{itemize}
+\item Preprocessing
+\begin{itemize}
+\item Normalization
+\item Imputation missing values
+\end{itemize}
+\item Feature Extraction
+\begin{itemize}
+\item Token Count Vectorizer
+\item Tf-idf Transformer
+\end{itemize}
+\item Datasets
+\begin{itemize}
+\item Array
+\item CSV
+\item Files
+\item SVM
+\item MNIST
+\end{itemize}
+\item Models management
+\begin{itemize}
+\item Persistency
+\end{itemize}
+\item Math
+\begin{itemize}
+\item Distance
+\item Matrix
+\item Set
+\item Statistic
+\end{itemize}
+\end{enumerate}
+
+
+\subsection{Berkontribusi ke PHP-ML}
+\par PHP-ML adalah proyek sumber terbuka. Jika Anda ingin berkontribusi, silakan baca teks berikut ini. Sebelum saya dapat menggabungkan Permintaan Tarik Anda, berikut adalah beberapa panduan yang perlu Anda ikuti. Panduan ini ada untuk tidak mengganggu Anda, tetapi untuk menjaga basis kode tetap bersih, terpadu, dan bukti di masa mendatang.
+\begin{enumerate}
+\item Cabang
+Anda hanya harus membuka permintaan tarik terhadap cabang master.
+\item Tes Unit
+Coba tambahkan tes untuk permintaan tarik Anda. Anda dapat menjalankan unit-test dengan skript:
+	vendor/bin/phpunit
+\item Tes Kinerja
+Sebelum menjalankan skrip bootstrap pertama kali, akan mengunduh semua set data yang diperlukan dari repositori publik : php-ai/php-m-datasets.
+Tes kinerja waktu:
+vendor/bin/phpbench run--report=time
+Tes kinerja memori:
+vendor/bin/phpbench run --report=memory
+\item Travis
+GitHub secara otomatis menjalankan permintaan tarik Anda melalui Travis CI. Jika Anda melanggar tes, saya tidak dapat menggabungkan kode Anda, jadi pastikan kode Anda berfungsi sebelum membuka Permintaan Tarik.
+\item Menggabungkan
+Tolong beri saya waktu untuk meninjau permintaan tarik Anda. Saya akan memberikan yang terbaik untuk meninjau semuanya secepat mungkin, tetapi tidak selalu sesuai dengan harapan saya.
+\item Standar Pengkodean \& Analisis Statis
+Saat berkontribusi kode ke PHP-ML, Anda harus mengikuti standar pengkodeannya. Untuk melakukannya, jalankan:
+	composer fix-cs
+\end{enumerate}
+
 
 
 
