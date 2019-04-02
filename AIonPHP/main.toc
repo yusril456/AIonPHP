@@ -9,31 +9,38 @@
 \contentsline {schapter}{Introduction}{xxix}% 
 \contentsline {ichapter}{Muhammad Yusril Helmi Setyawan}{xxix}% 
 \contentsline {chapter}{\numberline {1}Pengantar Machine learning}{1}% 
-\contentsline {section}{\numberline {1.1}Pengenalan Jaringan Komputer}{1}% 
-\contentsline {subsection}{\numberline {1.1.1}Jenis-jenis Jaringan Komputer}{3}% 
-\contentsline {subsection}{\numberline {1.1.2}Topologi Jaringan Komputer}{4}% 
-\contentsline {subsection}{\numberline {1.1.3}Topologi jaringan komputer}{7}% 
-\contentsline {chapter}{\numberline {2}Teknologi dengan Machine Learning}{9}% 
-\contentsline {section}{\numberline {2.1}Sejarah Machine Learning}{9}% 
-\contentsline {section}{\numberline {2.2}Dampak Machine Learning di Masyarakat}{10}% 
-\contentsline {chapter}{\numberline {3}PHP sebagai Bahasa Pemrograman}{11}% 
-\contentsline {section}{\numberline {3.1}PHP sebagai Bahasa Pemprograman}{11}% 
-\contentsline {subsection}{\numberline {3.1.1}Mengenal PHP sebagai Bahasa Pemprograman}{11}% 
-\contentsline {subsection}{\numberline {3.1.2}Sejarah PHP}{12}% 
-\contentsline {subsection}{\numberline {3.1.3}Kelebihan Bahasa Pemrograman PHP}{13}% 
-\contentsline {subsection}{\numberline {3.1.4}Penerapan PHP sebagai Bahasa Pemprograman}{13}% 
-\contentsline {subsection}{\numberline {3.1.5}Sisi lain dari PHP sebahgai Bahasa Pemprograman}{14}% 
-\contentsline {chapter}{\numberline {4}Implementasi PHP pada Machine Learning}{15}% 
-\contentsline {section}{\numberline {4.1}PHP-ML - Machine Learning library for PHP}{15}% 
-\contentsline {section}{\numberline {4.2}installation}{16}% 
-\contentsline {section}{\numberline {4.3}examples}{16}% 
-\contentsline {section}{\numberline {4.4}Features}{16}% 
-\contentsline {section}{\numberline {4.5}Contribute}{17}% 
-\contentsline {section}{\numberline {4.6}Machine Learning}{17}% 
-\contentsline {subsection}{\numberline {4.6.1}Perbedaan Data Mining/Penggalian Data}{17}% 
-\contentsline {subsection}{\numberline {4.6.2}T}{17}% 
-\contentsline {subsection}{\numberline {4.6.3}Contoh Penerapan Machine Learning}{18}% 
-\contentsline {subsection}{\numberline {4.6.4}Dampak Machine Learning di Masyarakat}{19}% 
+\contentsline {section}{\numberline {1.1}Pengantar Machine Learning}{1}% 
+\contentsline {subsection}{\numberline {1.1.1}Apa itu Machine Learning?}{1}% 
+\contentsline {subsection}{\numberline {1.1.2}Konsep Dasar Machine Learning}{2}% 
+\contentsline {subsection}{\numberline {1.1.3}Bagian Machine Learning}{2}% 
+\contentsline {subsection}{\numberline {1.1.4}Cara Kerja Machine Learning}{2}% 
+\contentsline {subsection}{\numberline {1.1.5}Metode Algoritma Machine Learning}{3}% 
+\contentsline {subsection}{\numberline {1.1.6}Aplikasi Machine Learning}{4}% 
+\contentsline {subsection}{\numberline {1.1.7}Dampak Machine Learning di Masyarakat}{5}% 
+\contentsline {chapter}{\numberline {2}Teknologi dengan Machine Learning}{7}% 
+\contentsline {section}{\numberline {2.1}Sejarah Machine Learning}{7}% 
+\contentsline {section}{\numberline {2.2}Dampak Machine Learning di Masyarakat}{8}% 
+\contentsline {chapter}{\numberline {3}PHP sebagai Bahasa Pemrograman}{9}% 
+\contentsline {section}{\numberline {3.1}PHP sebagai Bahasa Pemprograman}{9}% 
+\contentsline {subsection}{\numberline {3.1.1}Mengenal PHP sebagai Bahasa Pemprograman}{9}% 
+\contentsline {subsection}{\numberline {3.1.2}Sejarah PHP}{10}% 
+\contentsline {subsection}{\numberline {3.1.3}Kelebihan Bahasa Pemrograman PHP}{11}% 
+\contentsline {subsection}{\numberline {3.1.4}Penerapan PHP sebagai Bahasa Pemprograman}{11}% 
+\contentsline {subsection}{\numberline {3.1.5}Sisi lain dari PHP sebahgai Bahasa Pemprograman}{12}% 
+\contentsline {chapter}{\numberline {4}Implementasi PHP pada Machine Learning}{13}% 
+\contentsline {section}{\numberline {4.1}PHP-ML - Machine Learning library for PHP}{13}% 
+\contentsline {section}{\numberline {4.2}installation}{14}% 
+\contentsline {section}{\numberline {4.3}examples}{14}% 
+\contentsline {section}{\numberline {4.4}Features}{14}% 
+\contentsline {section}{\numberline {4.5}Contribute}{15}% 
+\contentsline {section}{\numberline {4.6}Machine Learning}{15}% 
+\contentsline {subsection}{\numberline {4.6.1}Perbedaan Data Mining/Penggalian Data}{15}% 
+\contentsline {subsection}{\numberline {4.6.2}T}{15}% 
+\contentsline {subsection}{\numberline {4.6.3}Contoh Penerapan Machine Learning}{16}% 
+\contentsline {subsection}{\numberline {4.6.4}Dampak Machine Learning di Masyarakat}{17}% 
+\contentsline {section}{\numberline {4.7}ML on PHP}{18}% 
+\contentsline {subsection}{\numberline {4.7.1}Fitur ML on PHP}{18}% 
+\contentsline {subsection}{\numberline {4.7.2}Berkontribusi ke PHP-ML}{20}% 
 \contentsline {chapter}{\numberline {5}Studi Kasus dan Penyelesaian}{21}% 
 \contentsline {section}{\numberline {5.1}Perintah Navigasi}{21}% 
 \contentsline {chapter}{\numberline {6}Judul Bagian Keenam}{23}% 
