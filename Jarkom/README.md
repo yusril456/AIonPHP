@@ -1,2 +1,0 @@
-# Jarkom
-Buku Jaringan Komputer
