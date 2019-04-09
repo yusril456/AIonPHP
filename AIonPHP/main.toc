@@ -9,10 +9,18 @@
 \contentsline {schapter}{Introduction}{xxix}% 
 \contentsline {ichapter}{Muhammad Yusril Helmi Setyawan}{xxix}% 
 \contentsline {chapter}{\numberline {1}Pengantar Machine learning}{1}% 
-\contentsline {section}{\numberline {1.1}Pengenalan Jaringan Komputer}{1}% 
-\contentsline {subsection}{\numberline {1.1.1}Jenis-jenis Jaringan Komputer}{3}% 
-\contentsline {subsection}{\numberline {1.1.2}Topologi Jaringan Komputer}{4}% 
-\contentsline {subsection}{\numberline {1.1.3}Topologi jaringan komputer}{7}% 
+\contentsline {section}{\numberline {1.1}Pengantar Machine Learning}{1}% 
+\contentsline {subsection}{\numberline {1.1.1}Apa itu Machine Learning?}{1}% 
+\contentsline {subsection}{\numberline {1.1.2}Definisi Menurut Ahli}{2}% 
+\contentsline {subsection}{\numberline {1.1.3}Ruang Lingkup Machine Learning}{2}% 
+\contentsline {subsection}{\numberline {1.1.4}Konsep Dasar Machine Learning}{2}% 
+\contentsline {subsection}{\numberline {1.1.5}Pentingnya ML}{2}% 
+\contentsline {subsection}{\numberline {1.1.6}Bagian Machine Learning}{3}% 
+\contentsline {subsection}{\numberline {1.1.7}Cara Kerja Machine Learning}{3}% 
+\contentsline {subsection}{\numberline {1.1.8}Cara Belajar ML}{3}% 
+\contentsline {subsection}{\numberline {1.1.9}Metode Algoritma Machine Learning}{5}% 
+\contentsline {subsection}{\numberline {1.1.10}Aplikasi Machine Learning}{5}% 
+\contentsline {subsection}{\numberline {1.1.11}Dampak Machine Learning di Masyarakat}{6}% 
 \contentsline {chapter}{\numberline {2}Teknologi dengan Machine Learning}{9}% 
 \contentsline {section}{\numberline {2.1}Sejarah Machine Learning}{9}% 
 \contentsline {section}{\numberline {2.2}Dampak Machine Learning di Masyarakat}{10}% 
